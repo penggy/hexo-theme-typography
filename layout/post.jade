@@ -39,4 +39,5 @@ block content
                             != __('next_post')
                             |&nbsp;
                             i.fa.fa-angle-double-right
-        include partial/comments
+        if page.comments
+            include partial/comments

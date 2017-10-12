@@ -3,13 +3,13 @@ title_secondary: "Typography" # the smaller text
 keywords:
 
 twitter: # user_name
-rss: atom.xml
-weibo: # user_id/permanent_name
+rss: # atom.xml
+weibo: 2034321925
 instagram: # user_name
-github: # user_name
+github: penggy
 
 # Choose the comment service according to your need.
 # Please do not use the two services at the same time.
-livere: # [data-uid] on livere.com
+livere: MTAyMC8zMTMzMC83ODc5
 disqus: # [short_name] on disqus.com
 dove: # For fun ONLY. Set to true to 'disable' comments on your site.

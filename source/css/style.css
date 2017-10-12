@@ -609,9 +609,7 @@ figure .code pre {
     font-size: 14px;
     margin: 10px 0; }
   .post-abstract {
-    font-size: 16px; }
-  .soc {
-    display: block !important; } }
+    font-size: 16px; } }
 
 @media only screen and (max-height: 860px) {
   .site-title-large {

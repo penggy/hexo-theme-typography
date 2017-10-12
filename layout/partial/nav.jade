@@ -12,7 +12,7 @@ div#site-nav.site-title-links
                 a(href=config.root + "archives")= __('Archive')
         include ../mixins
         +make_page_links()
-        li.soc
+        li
             if theme.github
                 a(href="https://github.com/" + theme.github, target="_blank")
                     i.fa.fa-github &nbsp;

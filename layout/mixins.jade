@@ -8,7 +8,7 @@ mixin make_post(item, is_detail)
         p.post-meta
             span.date.meta-item!=__("posted_at")+"&nbsp;" + date(item.date, 'YYYY-MM-DD')
             if !is_detail
-                if theme.duoshuo || theme.disqus
+                if theme.livere || theme.disqus
                     span.meta-item
                         i.fa.fa-comment-o
                         span &nbsp;

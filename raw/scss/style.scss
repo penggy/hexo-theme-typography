@@ -120,7 +120,7 @@ body {
     padding: 80px 40px;
     overflow-x: hidden;
     overflow-y: -moz-scrollbars-none;
-    overflow-y: scroll;
+    // overflow-y: scroll;
     float: left;
 }
 
@@ -400,9 +400,9 @@ li {
     margin: 5px 0;
 }
 
-figure {
-    overflow: scroll;
-}
+// figure {
+//     overflow: scroll;
+// }
 
 figure>table {
     width: 100%;
